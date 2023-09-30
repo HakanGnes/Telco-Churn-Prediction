@@ -1,5 +1,5 @@
 ##############################
-# Telco Customer Churn Feature Engineering
+# Telco Customer Churn 
 ##############################
 
 # Problem : Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirilmesi istenmektedir.
